@@ -9,6 +9,9 @@ We operate the mobile application DoublePark (the "**App**"), as well as any oth
 
 DoublePark is a mobile application that connects people looking for parking to people leaving parking spots.
 
+#### Key Definitions
+* **"Handoff" — The process by which a user vacates their parking spot and another user takes it, completing the transaction.
+
 You can contact us by phone at 1-415-317-7661, email at doublepark.contact@gmail.com, or by mail to 7533 C Center View Ct Ste N, West Jordan, UT 84084, United States.
 
 These Legal Terms constitute a legally binding agreement made between you, whether personally or on behalf of an entity ("**you**"), and ParkRocket LLC, concerning your access to and use of the Services. You agree that by accessing the Services, you have read, understood, and agreed to be bound by all of these Legal Terms. IF YOU DO NOT AGREE WITH ALL OF THESE LEGAL TERMS, THEN YOU ARE EXPRESSLY PROHIBITED FROM USING THE SERVICES AND YOU MUST DISCONTINUE USE IMMEDIATELY.
@@ -119,7 +122,7 @@ We reserve the right to refuse any order placed through the Services. We may, in
 All payment processing is handled by Stripe, Inc. ("Stripe"). We do not store your full payment card details — only the last four digits, card brand, and expiration date are accessible to us. By using the Services, you agree to be bound by Stripe's [Payment Terms](https://stripe.com/legal/payment-terms) and [Privacy Policy](https://stripe.com/privacy). If you receive payments through the Services, you agree to Stripe's [Connected Account Agreement](https://stripe.com/legal/connect-account). Stripe is responsible for the security of payment information in their possession.
 
 ## 6 POLICY
-All sales are final and no refund will be issued.
+All sales are generally final. However, refunds may be issued at our sole discretion in cases of failed or disputed transactions, such as when a handoff is not completed due to circumstances beyond the user's control. To request a refund, contact us at doublepark.contact@gmail.com. We reserve the right to deny any refund request.
 
 ## 7 PROHIBITED ACTIVITIES
 You may not access or use the Services for any purpose other than that for which we make the Services available. The Services may not be used in connection with any commercial endeavors except those that are specifically endorsed or approved by us.
