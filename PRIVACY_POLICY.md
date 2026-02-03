@@ -22,9 +22,9 @@ This Privacy Notice for ParkRocket LLC (doing business as DoublePark) ("we," "us
 
 **In what situations and with which parties do we share personal information?** We may share information in specific situations and with specific third parties. Learn more about [when and with whom we share your personal information](#3-when-and-with-whom-do-we-share-your-personal-information).
 
-**How do we keep your information safe?** We have adequate organizational and technical processes and procedures in place to protect your personal information. However, no electronic transmission over the internet or information storage technology can be guaranteed to be 100% secure, so we cannot promise or guarantee that hackers, cybercriminals, or other unauthorized third parties will not be able to defeat our security and improperly collect, access, steal, or modify your information. Learn more about [how we keep your information safe](#6-how-do-we-keep-your-information-safe).
+**How do we keep your information safe?** We have adequate organizational and technical processes and procedures in place to protect your personal information. However, no electronic transmission over the internet or information storage technology can be guaranteed to be 100% secure, so we cannot promise or guarantee that hackers, cybercriminals, or other unauthorized third parties will not be able to defeat our security and improperly collect, access, steal, or modify your information. Learn more about [how we keep your information safe](#5-how-do-we-keep-your-information-safe).
 
-**What are your rights?** Depending on where you are located geographically, the applicable privacy law may mean you have certain rights regarding your personal information. Learn more about [your privacy rights](#8-what-are-your-privacy-rights).
+**What are your rights?** Depending on where you are located geographically, the applicable privacy law may mean you have certain rights regarding your personal information. Learn more about [your privacy rights](#7-what-are-your-privacy-rights).
 
 **How do you exercise your rights?** The easiest way to exercise your rights is by visiting doublepark.contact@gmail.com, or by contacting us. We will consider and act upon any request in accordance with applicable data protection laws.
 
@@ -34,16 +34,15 @@ Want to learn more about what we do with any information we collect? [Review the
 1. [WHAT INFORMATION DO WE COLLECT?](#1-what-information-do-we-collect)
 2. [HOW DO WE PROCESS YOUR INFORMATION?](#2-how-do-we-process-your-information)
 3. [WHEN AND WITH WHOM DO WE SHARE YOUR PERSONAL INFORMATION?](#3-when-and-with-whom-do-we-share-your-personal-information)
-4. [DO WE USE COOKIES AND OTHER TRACKING TECHNOLOGIES?](#4-do-we-use-cookies-and-other-tracking-technologies)
-5. [HOW LONG DO WE KEEP YOUR INFORMATION?](#5-how-long-do-we-keep-your-information)
-6. [HOW DO WE KEEP YOUR INFORMATION SAFE?](#6-how-do-we-keep-your-information-safe)
-7. [DO WE COLLECT INFORMATION FROM MINORS?](#7-do-we-collect-information-from-minors)
-8. [WHAT ARE YOUR PRIVACY RIGHTS?](#8-what-are-your-privacy-rights)
-9. [CONTROLS FOR DO-NOT-TRACK FEATURES](#9-controls-for-do-not-track-features)
-10. [DO UNITED STATES RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS?](#10-do-united-states-residents-have-specific-privacy-rights)
-11. [DO WE MAKE UPDATES TO THIS NOTICE?](#11-do-we-make-updates-to-this-notice)
-12. [HOW CAN YOU CONTACT US ABOUT THIS NOTICE?](#12-how-can-you-contact-us-about-this-notice)
-13. [HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?](#13-how-can-you-review-update-or-delete-the-data-we-collect-from-you)
+4. [HOW LONG DO WE KEEP YOUR INFORMATION?](#4-how-long-do-we-keep-your-information)
+5. [HOW DO WE KEEP YOUR INFORMATION SAFE?](#5-how-do-we-keep-your-information-safe)
+6. [DO WE COLLECT INFORMATION FROM MINORS?](#6-do-we-collect-information-from-minors)
+7. [WHAT ARE YOUR PRIVACY RIGHTS?](#7-what-are-your-privacy-rights)
+8. [CONTROLS FOR DO-NOT-TRACK FEATURES](#8-controls-for-do-not-track-features)
+9. [DO UNITED STATES RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS?](#9-do-united-states-residents-have-specific-privacy-rights)
+10. [DO WE MAKE UPDATES TO THIS NOTICE?](#10-do-we-make-updates-to-this-notice)
+11. [HOW CAN YOU CONTACT US ABOUT THIS NOTICE?](#11-how-can-you-contact-us-about-this-notice)
+12. [HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?](#12-how-can-you-review-update-or-delete-the-data-we-collect-from-you)
 
 ## 1 WHAT INFORMATION DO WE COLLECT?
 #### Personal information you disclose to us
@@ -64,7 +63,7 @@ We collect personal information that you voluntarily provide to us when you expr
 
 Payment Data. We may collect data necessary to process your payment if you choose to make purchases, such as your payment instrument number, and the security code associated with your payment instrument. All payment data is handled and stored by Stripe. You may find their privacy notice link(s) here: https://stripe.com/privacy.
 
-We use Stripe to process payments between users and to facilitate payouts to users who share their parking spots. Stripe collects payment information (including credit/debit card details and bank account information for payouts) directly through their platform. We not store full payment card or bank account details — we only receive limited information such as the last four digits of a card, card brand, and expiration date.
+We use Stripe to process payments between users and to facilitate payouts to users who share their parking spots. Stripe collects payment information (including credit/debit card details and bank account information for payouts) directly through their platform. We do not store full payment card or bank account details — we only receive limited information such as the last four digits of a card, card brand, and expiration date.
 
 **Application Data**. If you use our application(s), we also may collect the following information if you choose to provide us with access or permission:
 * *Geolocation Information*. We may request access or permission to track location-based information from your mobile device, either continuously or while you are using our mobile application(s), to provide certain location-based services. If you wish to change our access or permissions, you may do so in your device's settings.
@@ -81,8 +80,6 @@ All personal information that you provide to us must be true, complete, and accu
 **In Short**: *Some information — such as your Internet Protocol (IP) address and/or browser and device characteristics — is collected automatically when you visit our Services.*
 
 We automatically collect certain information when you visit, use, or navigate the Services. This information does not reveal your specific identity (like your name or contact information) but may include device and usage information, such as your IP address, browser and device characteristics, operating system, language preferences, referring URLs, device name, country, location, information about how and when you use our Services, and other technical information. This information is primarily needed to maintain the security and operation of our Services, and for our internal analytics and reporting purposes.
-
-Like many businesses, we also collect information through cookies and similar technologies. 
 
 The information we collect includes:
 * *Log and Usage Data*. Log and usage data is service-related, diagnostic, usage, and performance information our servers automatically collect when you access or use our Services and which we record in log files. Depending on how you interact with us, this log data may include your IP address, device information, browser type, and settings and information about your activity in the Services (such as the date/time stamps associated with your usage, pages and files viewed, searches, and other actions you take such as which features you use), device event information (such as system activity, error reports (sometimes called "crash dumps"), and hardware settings).
@@ -107,20 +104,12 @@ The information we collect includes:
 We may need to share your personal information in the following situations:
 * **Business Transfers**. We may share or transfer your information in connection with, or during negotiations of, any merger, sale of company assets, financing, or acquisition of all or a portion of our business to another company.
 * **When we use Google Maps Platform APIs**. We may share your information with certain Google Maps Platform APIs (e.g., Google Maps API, Places API). Google Maps uses GPS, Wi-Fi, and cell towers to estimate your location. GPS is accurate to about 20 meters, while Wi-Fi and cell towers help improve accuracy when GPS signals are weak, like indoors. This data helps Google Maps provide directions, but it is not always perfectly precise. We obtain and store on your device ("cache") your location. You may revoke your consent anytime by contacting us at the contact details provided at the end of this document.
+* **Stripe**. We use Stripe for payment processing. Stripe may receive your payment information directly. See their privacy policy: https://stripe.com/privacy.
+* **Twilio**. We use Twilio to send SMS verification codes to your phone number. See their privacy policy: https://www.twilio.com/legal/privacy
+* **Firebase (Google)**. We use Firebase Cloud Messaging to send push notifications. See their privacy policy: https://firebase.google.com/support/privacy
+* **Sentry**. We use Sentry for error tracking and crash reporting. See their privacy policy: https://sentry.io/privacy/
 
-## 4 DO WE USE COOKIES AND OTHER TRACKING TECHNOLOGIES?
-
-**In Short**: *We may use cookies and other tracking technologies to collect and store your information.*
-
-We may use cookies and similar tracking technologies (like web beacons and pixels) to gather information when you interact with our Services. Some online tracking technologies help us maintain the security of our Services, prevent crashes, fix bugs, save your preferences, and assist with basic site functions.
-
-We also permit third parties and service providers to use online tracking technologies on our Services for analytics and advertising, including to help manage and display advertisements, to tailor advertisements to your interests, or to send abandoned shopping cart reminders (depending on your communication preferences). The third parties and service providers use their technology to provide advertising about products and services tailored to your interests which may appear either on our Services or on other websites.
-
-To the extent these online tracking technologies are deemed to be a "sale"/"sharing" (which includes targeted advertising, as defined under the applicable laws) under applicable US state laws, you can opt out of these online tracking technologies by submitting a request as described below under section "[DO UNITED STATES RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS?](#10-do-united-states-residents-have-specific-privacy-rights)"
-
-Specific information about how we use such technologies and how you can refuse certain cookies is set out in our Cookie Notice.
-
-## 5 HOW LONG DO WE KEEP YOUR INFORMATION?
+## 4 HOW LONG DO WE KEEP YOUR INFORMATION?
 
 **In Short**: *We keep your information for as long as necessary to fulfill the purposes outlined in this Privacy Notice unless otherwise required by law.*
 
@@ -128,31 +117,31 @@ We will only keep your personal information for as long as it is necessary for t
 
 When we have no ongoing legitimate business need to process your personal information, we will either delete or anonymize such information, or, if this is not possible (for example, because your personal information has been stored in backup archives), then we will securely store your personal information and isolate it from any further processing until deletion is possible.
 
-## 6 HOW DO WE KEEP YOUR INFORMATION SAFE?
+## 5 HOW DO WE KEEP YOUR INFORMATION SAFE?
 **In Short**: *We aim to protect your personal information through a system of organizational and technical security measures.*
 
 We have implemented appropriate and reasonable technical and organizational security measures designed to protect the security of any personal information we process. However, despite our safeguards and efforts to secure your information, no electronic transmission over the Internet or information storage technology can be guaranteed to be 100% secure, so we cannot promise or guarantee that hackers, cybercriminals, or other unauthorized third parties will not be able to defeat our security and improperly collect, access, steal, or modify your information. Although we will do our best to protect your personal information, transmission of personal information to and from our Services is at your own risk. You should only access the Services within a secure environment.
 
-## 7 DO WE COLLECT INFORMATION FROM MINORS?
+## 6 DO WE COLLECT INFORMATION FROM MINORS?
 **In Short**: *We do not knowingly collect data from or market to children under 18 years of age.*
 
 We do not knowingly collect, solicit data from, or market to children under 18 years of age, nor do we knowingly sell such personal information. By using the Services, you represent that you are at least 18 or that you are the parent or guardian of such a minor and consent to such minor dependent’s use of the Services. If we learn that personal information from users less than 18 years of age has been collected, we will deactivate the account and take reasonable measures to promptly delete such data from our records. If you become aware of any data we may have collected from children under age 18, please contact us at doublepark.contact@gmail.com.
 
-## 8 WHAT ARE YOUR PRIVACY RIGHTS?
+## 7 WHAT ARE YOUR PRIVACY RIGHTS?
 **In Short**: *You may review, change, or terminate your account at any time, depending on your country, province, or state of residence.*
 
-<u>Withdrawing your consent</u>: If we are relying on your consent to process your personal information, which may be express and/or implied consent depending on the applicable law, you have the right to withdraw your consent at any time. You can withdraw your consent at any time by contacting us by using the contact details provided in the section "[HOW CAN YOU CONTACT US ABOUT THIS NOTICE?](#12-how-can-you-contact-us-about-this-notice)" below.
+<u>Withdrawing your consent</u>: If we are relying on your consent to process your personal information, which may be express and/or implied consent depending on the applicable law, you have the right to withdraw your consent at any time. You can withdraw your consent at any time by contacting us by using the contact details provided in the section "[HOW CAN YOU CONTACT US ABOUT THIS NOTICE?](#11-how-can-you-contact-us-about-this-notice)" below.
 
 However, please note that this will not affect the lawfulness of the processing before its withdrawal nor, when applicable law allows, will it affect the processing of your personal information conducted in reliance on lawful processing grounds other than consent.
 
 If you have questions or comments about your privacy rights, you may email us at doublepark.contact@gmail.com.
 
-## 9 CONTROLS FOR DO-NOT-TRACK FEATURES
+## 8 CONTROLS FOR DO-NOT-TRACK FEATURES
 Most web browsers and some mobile operating systems and mobile applications include a Do-Not-Track ("DNT") feature or setting you can activate to signal your privacy preference not to have data about your online browsing activities monitored and collected. At this stage, no uniform technology standard for recognizing and implementing DNT signals has been finalized. As such, we do not currently respond to DNT browser signals or any other mechanism that automatically communicates your choice not to be tracked online. If a standard for online tracking is adopted that we must follow in the future, we will inform you about that practice in a revised version of this Privacy Notice.
 
 California law requires us to let you know how we respond to web browser DNT signals. Because there currently is not an industry or legal standard for recognizing or honoring DNT signals, we do not respond to them at this time.
 
-## 10 DO UNITED STATES RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS?
+## 9 DO UNITED STATES RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS?
 **In Short**: *If you are a resident of California, Colorado, Connecticut, Delaware, Florida, Indiana, Iowa, Kentucky, Maryland, Minnesota, Montana, Nebraska, New Hampshire, New Jersey, Oregon, Rhode Island, Tennessee, Texas, Utah, or Virginia, you may have the right to request access to and receive details about the personal information we maintain about you and how we have processed it, correct inaccuracies, get a copy of, or delete your personal information. You may also have the right to withdraw your consent to our processing of your personal information. These rights may be limited in some circumstances by applicable law. More information is provided below.*
 
 #### Categories of Personal Information We Collect
@@ -164,7 +153,7 @@ The table below shows the categories of personal information we have collected i
 | A. Identifiers | Contact details, such as real name, alias, postal address, telephone or mobile contact number, unique personal identifier, online identifier, Internet Protocol address, email address, and account name | YES |
 | B. Personal information as defined in the California Customer Records statute | Name, contact information, education, employment, employment history, and financial information | YES |
 | C. Protected classification characteristics under state or federal law | Gender, age, date of birth, race and ethnicity, national origin, marital status, and other demographic data | NO |
-| D. Commercial information | Transaction information, purchase history, financial details, and payment information | NO |
+| D. Commercial information | Transaction information, purchase history, financial details, and payment information | YES |
 | E. Biometric information | Fingerprints and voiceprints | NO |
 | F. Internet or other similar network activity | Browsing history, search history, online behavior, interest data, and interactions with our and other websites, applications, systems, and advertisements | NO |
 | G. Geolocation data | Device location | YES |
@@ -188,7 +177,7 @@ We will use and retain the collected personal information as needed to provide t
 Learn more about the sources of personal information we collect in "[WHAT INFORMATION DO WE COLLECT?](#1-what-information-do-we-collect)"
 
 #### How We Use and Share Personal Information
-Learn more about how we use your personal information in the section, "[HOW DO WE PROCESS YOUR INFORMATION?](#2-how-do-process-your-information)"
+Learn more about how we use your personal information in the section, "[HOW DO WE PROCESS YOUR INFORMATION?](#2-how-do-we-process-your-information)"
 
 **Will your information be shared with anyone else?**
 
@@ -236,15 +225,15 @@ Under certain US state data protection laws, if we decline to take action regard
 
 #### California "Shine The Light" Law
 
-Caifornia "Shine The Light" Law
-California Civil Code Section 1798.83, also known as the "Shine The Light" law, permits our users who are California residents to request and obtain from us, once a year and free of charge, information about categories of personal information (if any) we disclosed to third parties for direct marketing purposes and the names and addresses of all third parties with which we shared personal information in the immediately preceding calendar year. If you are a California resident and would like to make such a request, please submit your request in writing to us by using the contact details provided in the section "[HOW CAN YOU CONTACT US ABOUT THIS NOTICE?](#12-how-can-you-contact-us-about-this-notice)"
+California "Shine The Light" Law
+California Civil Code Section 1798.83, also known as the "Shine The Light" law, permits our users who are California residents to request and obtain from us, once a year and free of charge, information about categories of personal information (if any) we disclosed to third parties for direct marketing purposes and the names and addresses of all third parties with which we shared personal information in the immediately preceding calendar year. If you are a California resident and would like to make such a request, please submit your request in writing to us by using the contact details provided in the section "[HOW CAN YOU CONTACT US ABOUT THIS NOTICE?](#11-how-can-you-contact-us-about-this-notice)"
 
-## 11 DO WE MAKE UPDATES TO THIS NOTICE?
+## 10 DO WE MAKE UPDATES TO THIS NOTICE?
 **In Short**: *Yes, we will update this notice as necessary to stay compliant with relevant laws.*
 
 We may update this Privacy Notice from time to time. The updated version will be indicated by an updated "Revised" date at the top of this Privacy Notice. If we make material changes to this Privacy Notice, we may notify you either by prominently posting a notice of such changes or by directly sending you a notification. We encourage you to review this Privacy Notice frequently to be informed of how we are protecting your information.
 
-## 12 HOW CAN YOU CONTACT US ABOUT THIS NOTICE?
+## 11 HOW CAN YOU CONTACT US ABOUT THIS NOTICE?
 
 If you have questions or comments about this notice, you may email us at doublepark.contact@gmail.com or contact us by post at:
 
@@ -256,5 +245,5 @@ If you have questions or comments about this notice, you may email us at doublep
 
 **United States**
 
-## 13 HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?
+## 12 HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?
 You have the right to request access to the personal information we collect from you, details about how we have processed it, correct inaccuracies, or delete your personal information. You may also have the right to withdraw your consent to our processing of your personal information. These rights may be limited in some circumstances by applicable law. To request to review, update, or delete your personal information, please visit: doublepark.contact@gmail.com.
