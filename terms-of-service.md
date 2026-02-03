@@ -10,7 +10,7 @@ We operate the mobile application DoublePark (the "**App**"), as well as any oth
 DoublePark is a mobile application that connects people looking for parking to people leaving parking spots.
 
 #### Key Definitions
-* **"Handoff" — The process by which a user vacates their parking spot and another user takes it, completing the transaction.
+* **"Handoff"** — The process by which a user vacates their parking spot and another user takes it, completing the transaction.
 
 You can contact us by phone at 1-415-317-7661, email at doublepark.contact@gmail.com, or by mail to 7533 C Center View Ct Ste N, West Jordan, UT 84084, United States.
 
@@ -197,7 +197,7 @@ The Services may contain (or you may be sent via the App) links to other website
 We reserve the right, but not the obligation, to: (1) monitor the Services for violations of these Legal Terms; (2) take appropriate legal action against anyone who, in our sole discretion, violates the law or these Legal Terms, including without limitation, reporting such user to law enforcement authorities; (3) in our sole discretion and without limitation, refuse, restrict access to, limit the availability of, or disable (to the extent technologically feasible) any of your Contributions or any portion thereof; (4) in our sole discretion and without limitation, notice, or liability, to remove from the Services or otherwise disable all files and content that are excessive in size or are in any way burdensome to our systems; and (5) otherwise manage the Services in a manner designed to protect our rights and property and to facilitate the proper functioning of the Services.
 
 ## 13 PRIVACY POLICY
-We care about data privacy and security. Please review our Privacy Policy: __________. By using the Services, you agree to be bound by our Privacy Policy, which is incorporated into these Legal Terms. Please be advised the Services are hosted in the United States. If you access the Services from any other region of the world with laws or other requirements governing personal data collection, use, or disclosure that differ from applicable laws in the United States, then through your continued use of the Services, you are transferring your data to the United States, and you expressly consent to have your data transferred to and processed in the United States.
+We care about data privacy and security. Please review our Privacy Policy: https://gabekutner.github.io/doublepark-legal/privacy-policy. By using the Services, you agree to be bound by our Privacy Policy, which is incorporated into these Legal Terms. Please be advised the Services are hosted in the United States. If you access the Services from any other region of the world with laws or other requirements governing personal data collection, use, or disclosure that differ from applicable laws in the United States, then through your continued use of the Services, you are transferring your data to the United States, and you expressly consent to have your data transferred to and processed in the United States.
 
 ## 14 TERM AND TERMINATION
 These Legal Terms shall remain in full force and effect while you use the Services. WITHOUT LIMITING ANY OTHER PROVISION OF THESE LEGAL TERMS, WE RESERVE THE RIGHT TO, IN OUR SOLE DISCRETION AND WITHOUT NOTICE OR LIABILITY, DENY ACCESS TO AND USE OF THE SERVICES (INCLUDING BLOCKING CERTAIN IP ADDRESSES), TO ANY PERSON FOR ANY REASON OR FOR NO REASON, INCLUDING WITHOUT LIMITATION FOR BREACH OF ANY REPRESENTATION, WARRANTY, OR COVENANT CONTAINED IN THESE LEGAL TERMS OR OF ANY APPLICABLE LAW OR REGULATION. WE MAY TERMINATE YOUR USE OR PARTICIPATION IN THE SERVICES OR DELETE YOUR ACCOUNT AND ANY CONTENT OR INFORMATION THAT YOU POSTED AT ANY TIME, WITHOUT WARNING, IN OUR SOLE DISCRETION.
@@ -263,7 +263,7 @@ If at any time you wish to stop receiving SMS messages from us, simply reply to 
 Please be aware that message and data rates may apply to any SMS messages sent or received. The rates are determined by your carrier and the specifics of your mobile plan. Carriers are not liable for delayed or undelivered messages. If you have any questions about your text plan or data plan, contact your wireless provider.
 
 #### Support
-If you have any questions or need assistance regarding our SMS communications, please reply with the keyword HELP. You can also email us at doublepark.contact@gmail.com or call at 1-415-317-7661. If you have any questions regarding privacy, please read our Privacy Policy: __________.
+If you have any questions or need assistance regarding our SMS communications, please reply with the keyword HELP. You can also email us at doublepark.contact@gmail.com or call at 1-415-317-7661. If you have any questions regarding privacy, please read our Privacy Policy: https://gabekutner.github.io/doublepark-legal/privacy-policy.
 
 ## 25 CALIFORNIA USERS AND RESIDENTS
 If any complaint with us is not satisfactorily resolved, you can contact the Complaint Assistance Unit of the Division of Consumer Services of the California Department of Consumer Affairs in writing at 1625 North Market Blvd., Suite N 112, Sacramento, California 95834 or by telephone at (800) 952-5210 or (916) 445-1254.
